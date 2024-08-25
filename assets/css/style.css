@@ -1,0 +1,154 @@
+body {
+   background: linear-gradient(135deg, #000000, #374879);
+   padding: 0;
+   margin: 0;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: #EDEDED;
+}
+.cursive-font {
+   font-family: 'Dancing Script', cursive;
+   font-size: 2.5rem !important;
+   letter-spacing: 4px !important;
+   color: #FFFFFF; 
+}
+
+
+.container {
+   max-width: 1200px;
+   margin: auto;
+   padding: 20px;
+}
+
+h4 {
+   font-weight: 600;
+   color: #F0F0F0; /* Brighter heading color */
+   margin-bottom: 20px;
+}
+
+textarea::placeholder {
+   font-style: italic;
+   color: #CFCFCF; /* Slightly brighter placeholder color */
+}
+
+.form-control {
+   border: 1px solid #3C3F45;
+   background-color: #3C3F45;
+   color: #EDEDED;
+   border-radius: 8px;
+}
+
+.btn {
+   border-radius: 8px;
+   font-size: 14px;
+   padding: 10px 15px;
+}
+
+.bg-primary {
+   background-color: #5865F2 !important;
+   border-color: #5865F2;
+   color: #EDEDED;
+}
+
+.text-secondary {
+   color: #CFCFCF !important; 
+}
+.text-dark{
+   color: #ffc107 !important;
+}
+
+.border-secondary {
+   border-color: #454647 !important;
+}
+
+h5{
+   word-wrap: break-word ;
+}
+
+.alert {
+   border-radius: 8px;
+   padding: 15px;
+   margin-bottom: 20px;
+   border: 1px solid #444A54;
+}
+
+.alert-light {
+   background-color: #3c3f4500;
+   color: #EDEDED;
+}
+
+.alert-info {
+   background-color: #4C546A;
+   color: #EDEDED;
+}
+
+.alert-success {
+   background-color: #4A604A;
+   color: #EDEDED;
+}
+
+.alert-warning {
+   background-color: #635D48;
+   color: #EDEDED;
+}
+
+.btn-outline-secondary {
+   color: #EDEDED;
+   border-color: #EDEDED;
+}
+
+.btn-outline-secondary:hover {
+   background-color: #EDEDED;
+   color: #2C2F33;
+}
+
+.btn-outline-success {
+   color: #6C8C6C;
+   border-color: #6C8C6C;
+}
+
+.btn-outline-success:hover {
+   background-color: #6C8C6C;
+   color: #2C2F33;
+}
+
+.btn-outline-warning {
+   color: #A68C4C;
+   border-color: #A68C4C;
+}
+
+.btn-outline-warning:hover {
+   background-color: #A68C4C;
+   color: #2C2F33;
+}
+
+.remove-to-do {
+   color: #EDEDED;
+   cursor: pointer;
+}
+
+.remove-to-do:hover {
+   color: #C53030;
+}
+
+.fa-close {
+   font-size: 16px;
+   color: #EDEDED;
+}
+
+/* Gradient backgrounds for "All Notes," "Doing," and "Done" sections */
+.col-md-3 {
+   border: 1px solid #4B4F5A;
+   border-radius: 10px;
+   padding: 20px;
+   margin-bottom: 20px;
+}
+
+.col-md-3:nth-child(2) {
+   border: 1px solid #746C57;
+}
+
+.col-md-3:nth-child(3) {
+   border: 1px solid #5A6F5A;
+
+}
+
