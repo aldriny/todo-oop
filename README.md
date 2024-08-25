@@ -2,7 +2,7 @@
 
 ## Overview
 
-The To-Do List Application is a PHP-based web application designed to help users manage their tasks efficiently. It provides a simple and intuitive interface for creating, updating, and tracking tasks. The application leverages modern PHP features along with a MySQL database for data storage.
+The To-Do List Application (using OOP and PDO) is a PHP-based web application designed to help users manage their tasks efficiently. It provides a simple and intuitive interface for creating, updating, and tracking tasks. The application leverages modern PHP features along with a MySQL database for data storage.
 
 ## Features
 
